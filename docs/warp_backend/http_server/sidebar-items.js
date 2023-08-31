@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["start_server","Simple HTTP server that provides mainly 3 REST APIs:"]]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"macro":[["__static_cond",""]],"struct":[["id_status",""],["star","Represents `table_name.*`, which is sometimes needed for efficient count queries. It cannot be used in place of `all_columns`, and has a `SqlType` of `()` to prevent it being used that way"],["streamflow_pid",""],["uuid",""],["w_name",""],["w_path",""],["wuid",""]]};

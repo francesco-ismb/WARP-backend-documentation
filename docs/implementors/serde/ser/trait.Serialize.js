@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"warp_backend":[["impl <a class=\"trait\" href=\"https://docs.rs/serde/1.0.186/serde/ser/trait.Serialize.html\" title=\"trait serde::ser::Serialize\">Serialize</a> for <a class=\"struct\" href=\"warp_backend/yaml_handle_cmd/struct.UserResponse.html\" title=\"struct warp_backend::yaml_handle_cmd::UserResponse\">UserResponse</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

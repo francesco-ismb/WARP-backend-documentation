@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["check_for_unreserved_steps","Simple reservation logic that looks for steps with satisfied requirements and allocates resources through  reservation mechanism (slurm plugin). This method should be only for testing purposes as it bypasses optimization module"],["optimization_lookup",""],["reservation_loop",""]]};
